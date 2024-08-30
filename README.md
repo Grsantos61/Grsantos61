@@ -10,7 +10,7 @@ Olá, sou Gabriel Rodrigues, programador Full Stack em transição de carreira. 
 <br>
 <br>
 ### Redes:
-<br>
+
 <a href="https://www.linkedin.com/in/gabrielrodrigues08/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img width="28px" src="https://github.com/user-attachments/assets/41c441e3-4102-4d8b-b969-becec50e096d"/>
 </a>
